@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ricardo</h1>
+<h1 align="center">Hi, I'm Ricardo.</h1>
 <h3 align="center">A Software Engineering Student.</h3>
 
 - 🌱 I’m currently learning **JS, Python, HTML, CSS and C#**
