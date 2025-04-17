@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ricardo.</h1>
 <h3 align="center">A Software Engineering Student.</h3>
 
-- 🌱 I’m currently learning **JS, Python, HTML, CSS and C#**
+- 🌱 I’m currently learning **C#, C++ and Java**
 
 - 📫 How to reach me **rguilhenmelo@gmail.com**
 
